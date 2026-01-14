@@ -1,0 +1,12 @@
+# Ignore everything in the root directory
+/*
+
+# Whitelist specific files and folders
+!/release/
+!/submitted/
+!/gradebook.db
+!/source/
+!/requirements.txt
+!/final.sh
+!/README.md
+!/.gitignore
